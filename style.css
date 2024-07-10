@@ -1,0 +1,70 @@
+ul{
+    display: flex;
+    gap: 20px;
+
+}
+ul li {
+    gap: 10px;
+ list-style: none;
+ font-size:30px ;
+ text-decoration: none;
+}
+.menu-1{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+}
+.btn-1{
+    text-decoration: none;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+}
+.btn-2{
+    text-decoration: none;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+
+    }
+.btn{
+    width: 20%;
+    margin: 0 auto;
+    display: flex ;
+    margin-top: 10px;
+    gap: 20px;
+}
+.btn-3{
+    text-decoration: none;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    background-color: rgb(230, 247, 80);
+    color: rgb(0, 2, 3);
+    border-radius: 30px;
+}
+.image-1{
+    padding-top: 50px;
+    padding-left: 100px;
+}
+.bank{
+    padding-left: 100px;
+}
+.mini{
+    padding-top: 70px;
+    padding-left: 300px;
+    gap: 30px;
+}
+.div{
+    background-image:url(image-6.webp);
+    
+}
